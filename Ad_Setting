@@ -1,7 +1,7 @@
 {
   "Settings": {
     "Admob_Settings": {
-      "is_full_ads": false,
+      "is_full_ads": true,
       "is_app_update_popup": true,
       "is_override": false,
       "ads_loading_text": "Ads will loading...",
