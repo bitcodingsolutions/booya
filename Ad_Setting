@@ -2,8 +2,11 @@
   "Settings": {
     "Admob_Settings": {
       "is_full_ads": false,
-      "is_app_update_popup": false,
-      "app_update_url": "",
+      
+      "is_app_update_popup": false,    
+      "is_dissmisable":false,
+      "app_update_url": "https://play.google.com/store/apps/details?id=com.appclub.whats.status.saver",
+      
       "is_override": false,
       "ads_loading_text": "Ads will loading...",
       "ads_loading_delay": 1000,
