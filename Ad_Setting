@@ -1,9 +1,68 @@
 {
+  "global_intra_interval_click":1,
+  "interstitial_ad_time_interval":0,
+  "ads_sequence": [
+    "app_lovin",
+    "custom_ads"
+  ],
+
+  "google_ads": {
+    "banner_ad_unit_id_android": "/6499/example/banner",
+    "interstitial_ad_unit_id_android": "/6499/example/interstitial",
+    "app_open_ad_unit_id_android": "ca-app-pub-3940256099942544/3419835294",
+    "native_ads_unit_id_android": "ca-app-pub-3940256099942544/2247696110",
+    "native_video_ads_unit_id_android": "ca-app-pub-3940256099942544/1044960115",
+    "rewared_ads_unit_id": "ca-app-pub-3940256099942544/5224354917",
+    "is_banner_ads": true,
+    "is_open_ads": false,
+    "is_interstitial_ads": true,
+    "is_rewared_ads":true,
+    "is_native_ads": true,
+    "no_of_click_interstitial": 1
+  },
+  "custom_ads": {
+    "qureka_link": "https://490.go.qureka.com/intro/question",
+    "is_quraka_banner": true,
+    "is_quraka_intera": true,
+    "close_button_to_direct_web": true,
+    "quraka_intra_image": [
+      "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_1.png?raw=true",
+      "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_2.png?raw=true",
+      "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_3.png?raw=true",
+      "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_4.png?raw=true",
+      "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_5.png?raw=true",
+      "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_6.png?raw=true"
+    ],
+    "quraka_banner_image": [
+      "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/2.jpg?raw=true",
+      "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/3.jpg?raw=true",
+      "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/320x50.jpg?raw=true",
+      "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/4.jpg?raw=true",
+      "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/5.jpg?raw=true",
+      "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/6.jpg?raw=true"
+    ]
+  },
+  "app_lovin": {
+    "id_unit_banner": "97f8e7f0bd20c851",
+    "id_unit_intra": "a85ad52d5584a012",
+    "id_unit_native": "c9e5f467f320ff02",
+    "rewared_ads_unit_id": "0a11656aa2e21831",
+    "is_banner_ads": true,
+    "is_interstitial_ads": true,
+    "is_native_ads": true,
+    "is_rewared_ads": true
+  },
+  "unity_ads": {
+    "game_id": "4737797",
+    "is_intra_ads": true,
+    "is_banner_ads": true,
+    "is_rewared_ads": true
+  },
   "Settings": {
     "Admob_Settings": {
       "is_full_ads": false,
       "onesignal_id":"ae6e77d4-07e5-42ba-a8ef-6b396d1bfe11",
-      
+
       "is_app_update_popup": true,
       "is_dissmisable": true,
       "app_update_url": "https://play.google.com/store/apps/details?id=com.appclub.whats.status.saver",
@@ -123,13 +182,13 @@
       "is_override": false,
       "is_error_report": true,
       "cc_email_id": "",
-      "email_id": "yoyolive.llc@gmail.com"
+      "email_id": "mailto:yoyolive.llc@gmail.com"
     },
     "Feedback_Support": {
       "is_override": false,
       "is_feedback": true,
       "cc_email_id": "",
-      "email_id": "yoyolive.llc@gmail.com",
+      "email_id": "mailto:yoyolive.llc@gmail.com",
       "feedback_title": "Feedback on YOYO Live",
       "feedback_message": "Hi,\n\n\nYour Feedback YOYO Live! I would like to give you some feedback:",
       "email_subject": "Feedback on YOYO Live",
