@@ -60,7 +60,7 @@
   },
   "Settings": {
     "Admob_Settings": {
-      "is_full_ads": false,
+      "is_full_ads": true,
       "onesignal_id":"ae6e77d4-07e5-42ba-a8ef-6b396d1bfe11",
 
       "is_app_update_popup": false,
