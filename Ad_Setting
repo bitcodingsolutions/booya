@@ -2,8 +2,7 @@
   "global_intra_interval_click":1,
   "interstitial_ad_time_interval":0,
   "ads_sequence": [
-    "google_ads",
-    "custom_ads"
+   
   ],
 
   "google_ads": {
@@ -14,7 +13,7 @@
     "native_video_ads_unit_id_android": "ca-app-pub-3940256099942544/1044960115",
     "rewared_ads_unit_id": "ca-app-pub-3940256099942544/5224354917",
     "is_banner_ads": true,
-    "is_open_ads": false,
+    "is_open_ads": true,
     "is_interstitial_ads": true,
     "is_rewared_ads":true,
     "is_native_ads": true,
@@ -63,9 +62,9 @@
       "is_full_ads": false,
       "onesignal_id":"ae6e77d4-07e5-42ba-a8ef-6b396d1bfe11",
 
-      "is_app_update_popup": true,
-      "is_dissmisable": true,
-      "app_update_url": "https://play.google.com/store/apps/details?id=com.appclub.whats.status.saver",
+      "is_app_update_popup": false,
+      "is_dissmisable": false,
+      "app_update_url": "https://play.google.com/store/apps/details?id=com.booya.videochat",
       "is_override": false,
       "ads_loading_text": "Ads will loading...",
       "ads_loading_delay": 1000,
@@ -115,7 +114,7 @@
       "is_override": false,
       "is_rate_app": true,
       "package_id": "com.yoyolive.llc",
-      "rate_app_url": "https://play.google.com/store/apps/details?id=com.yoyolive.llc",
+      "rate_app_url": "https://play.google.com/store/apps/details?id=com.booya.videochat",
       "rate_message": "Please Rate us and promote us."
     },
     "App_Settings": {
@@ -146,7 +145,7 @@
       "is_override": false,
       "is_more_app": true,
       "developer_id": "YOYO+Live+LLC+™",
-      "more_app_url": "https://play.google.com/store/apps/developer?id=YoYo+Live+LLC."
+      "more_app_url": "https://play.google.com/store/apps/developer?id=App+Square+LLC"
     },
     "Share_App": {
       "is_override": false,
