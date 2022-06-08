@@ -60,10 +60,10 @@
   },
   "Settings": {
     "Admob_Settings": {
-      "is_full_ads": true,
+      "is_full_ads": false,
       "onesignal_id":"ae6e77d4-07e5-42ba-a8ef-6b396d1bfe11",
 
-      "is_app_update_popup": false,
+      "is_app_update_popup": true,
       "is_dissmisable": true,
       "app_update_url": "https://play.google.com/store/apps/details?id=com.appclub.whats.status.saver",
       "is_override": false,
