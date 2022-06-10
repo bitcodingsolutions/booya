@@ -115,7 +115,7 @@
       "is_override": false,
       "is_rate_app": true,
       "package_id": "com.yoyolive.llc",
-      "rate_app_url": "https://play.google.com/store/apps/details?id=com.booya.videochat",
+      "rate_app_url": "market://details?id=com.booya.videochat",
       "rate_message": "Please Rate us and promote us."
     },
     "App_Settings": {
@@ -146,12 +146,12 @@
       "is_override": false,
       "is_more_app": true,
       "developer_id": "YOYO+Live+LLC+™",
-      "more_app_url": "https://play.google.com/store/apps/developer?id=App+Square+LLC"
+      "more_app_url": "market://details?id=App+Square+LLC"
     },
     "Share_App": {
       "is_override": false,
       "is_share_app": true,
-      "share_message_app": "Discover new people and connect to them through live talk by download YOYO Live app from : https://play.google.com/store/apps/details?id=com.yoyolive.llc",
+      "share_message_app": "Discover new people and connect to them through live talk by download YOYO Live app from : market://details?id=com.booya.videochat",
       "share_message_link": "Share link url : "
     },
     "Official_Website": {
