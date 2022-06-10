@@ -3,7 +3,7 @@
   "interstitial_ad_time_interval":0,
   "ads_sequence": [
    "google_ads",
-   app_lovin
+   "app_lovin"
   ],
 
   "google_ads": {
