@@ -114,7 +114,7 @@
       "is_override": false,
       "is_rate_app": true,
       "package_id": "com.booya.videochat",
-      "rate_app_url": "market://details?id=com.booya.videochat",
+      "rate_app_url": "https://play.google.com/store/apps/details?id=com.booya.videochat",
       "rate_message": "Please Rate us and promote us."
     },
     "App_Settings": {
@@ -145,7 +145,7 @@
       "is_override": false,
       "is_more_app": true,
       "developer_id": "App+Square+LLC™",
-      "more_app_url": "market://details?id=App+Square+LLC"
+      "more_app_url": "https://play.google.com/store/apps/details?id=com.booya.videochat"
     },
     "Share_App": {
       "is_override": false,
