@@ -2,8 +2,7 @@
   "global_intra_interval_click":1,
   "interstitial_ad_time_interval":0,
   "ads_sequence": [
-   "google_ads",
-   "app_lovin"
+   
   ],
 
   "google_ads": {
@@ -76,15 +75,15 @@
       "is_override": false,
       "is_popup_dialog": false,
       "is_update_require": false,
-      "package_id": "com.yoyolive.llc",
+      "package_id": "com.booya.videochat",
       "download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v8.apk",
       "website_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v8.apk",
       "is_system_browser": true,
       "updated_version_code": 2,
-      "filename": "yoyolive.apk",
+      "filename": "Vidchat.apk",
       "title": "App Update",
       "default_message": "Your App is Up to date.",
-      "log_message": "- Now latest YOYO Live you have",
+      "log_message": "- Now latest Vidchat Live you have",
       "downloading_message": "App Downloading",
       "installing_message": "App Install"
     },
@@ -104,7 +103,7 @@
       "is_override": false,
       "is_about_app": true,
       "about_title": "About",
-      "about_message": "YOYO Live is about to random calling app."
+      "about_message": "Vidchat Live is about to random calling app."
     },
     "Exit_Dialog": {
       "is_override": false,
@@ -114,13 +113,13 @@
     "Rate_App": {
       "is_override": false,
       "is_rate_app": true,
-      "package_id": "com.yoyolive.llc",
+      "package_id": "com.booya.videochat",
       "rate_app_url": "market://details?id=com.booya.videochat",
       "rate_message": "Please Rate us and promote us."
     },
     "App_Settings": {
       "is_override": false,
-      "app_name": "yoyolive",
+      "app_name": "VidChat Live Random Video Chat",
       "server_address": "52.66.251.119",
       "port": 8086,
       "call_type": "both",
@@ -145,54 +144,54 @@
     "More_Apps": {
       "is_override": false,
       "is_more_app": true,
-      "developer_id": "YOYO+Live+LLC+™",
+      "developer_id": "App+Square+LLC™",
       "more_app_url": "market://details?id=App+Square+LLC"
     },
     "Share_App": {
       "is_override": false,
       "is_share_app": true,
-      "share_message_app": "Discover new people and connect to them through live talk by download YOYO Live app from : market://details?id=com.booya.videochat",
+      "share_message_app": "Discover new people and connect to them through live talk by download Vidchat Live app from : market://details?id=com.booya.videochat",
       "share_message_link": "Share link url : "
     },
     "Official_Website": {
       "is_override": false,
       "is_official_website": false,
       "is_system_browser": false,
-      "official_website": "https://yoyolive.github.io"
+      "official_website": "https://booya-random-videocalling.blogspot.com/"
     },
     "Privacy_Policy": {
       "is_override": false,
       "is_privacy_policy": true,
       "is_system_browser": true,
-      "privacy_policy": "https://yoyolive.github.io/privacy-policy.html"
+      "privacy_policy": "https://pages.flycricket.io/booya-live-random/privacy.html"
     },
     "Terms_Of_Use": {
       "is_override": false,
       "is_terms_of_use": true,
       "is_system_browser": true,
-      "terms_of_use": "https://yoyolive.github.io/tc.html"
+      "terms_of_use": "https://pages.flycricket.io/booya-live-random/privacy.html"
     },
     "Splash_Screen": {
       "is_override": false,
       "registration_detail1": "",
-      "registration_detail": "YOYO Live LLC.® 2020",
+      "registration_detail": "Vidchat Live LLC.® 2020",
       "version_detail": "version : 2.0.0"
     },
     "Error_Report_Support": {
       "is_override": false,
       "is_error_report": true,
       "cc_email_id": "",
-      "email_id": "mailto:yoyolive.llc@gmail.com"
+      "email_id": "mailto:appsquare.inc@gmail.com"
     },
     "Feedback_Support": {
       "is_override": false,
       "is_feedback": true,
       "cc_email_id": "",
-      "email_id": "mailto:yoyolive.llc@gmail.com",
-      "feedback_title": "Feedback on YOYO Live",
-      "feedback_message": "Hi,\n\n\nYour Feedback YOYO Live! I would like to give you some feedback:",
-      "email_subject": "Feedback on YOYO Live",
-      "email_message": "Hi,\n\n\nYour Feedback YOYO Live! I would like to give you some feedback:"
+      "email_id": "mailto:appsquare.inc@gmail.com",
+      "feedback_title": "Feedback on Vidchat Live",
+      "feedback_message": "Hi,\n\n\nYour Feedback Vidchat Live! I would like to give you some feedback:",
+      "email_subject": "Feedback on Vidchat Live",
+      "email_message": "Hi,\n\n\nYour Feedback Vidchat Live! I would like to give you some feedback:"
     }
   }
 }
