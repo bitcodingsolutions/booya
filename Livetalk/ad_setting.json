@@ -18,7 +18,7 @@
 		"app_update": {
 			"is_popup_dialog": false,
 			"is_update_require": true,
-			"package_id": "com.iptv.m3u.playlists",
+			"package_id": "com.livetalk.video.chat",
 			"website_url": "playstore url",
 			"is_system_browser": true,
 			"updated_version_code": 2,
@@ -34,20 +34,20 @@
    	  		 "is_override": false,
     			  "is_about_app": true,
     			  "about_title": "About",
-    			  "about_message": "IPTV : World m3u playlists",
-    			  "registration_detail": "IPTV : World m3u playlists",
+    			  "about_message": "Livetalk : Random ideo calling app",
+    			  "registration_detail": "Livetalk : Random ideo calling app",
     			  "version_detail": "version : 1.0.7"
  		},
 		"rate_app": {
 			"is_rate_app": true,
-			"package_id": "com.iptv.m3u.playlists",
-			"rate_app_url": "https://play.google.com/store/apps/details?id=com.iptv.m3u.playlists",
+			"package_id": "com.livetalk.video.chat",
+			"rate_app_url": "https://play.google.com/store/apps/details?id=com.livetalk.video.chat",
 			"rate_message": "Please Rate us and promote us."
 		},
 		"share_app": {
 			"is_share_app": true,
-			"share_title": "Share link url :https://play.google.com/store/apps/details?id=com.iptv.m3u.playlists",
-			"share_message": "Now anyone can get IPTV list for most countrys from : https://play.google.com/store/apps/details?id=com.iptv.m3u.playlists"
+			"share_title": "Share link url :https://play.google.com/store/apps/details?id=com.livetalk.video.chat",
+			"share_message": "Now anyone can get Livetalk : Random ideo calling app : https://play.google.com/store/apps/details?id=com.livetalk.video.chat"
 		},
 		"privacy_policy": {
 			"is_privacy_policy": true,
@@ -66,10 +66,10 @@
 		"feedback_support": {
 			"is_feedback_support": true,
 			"email_id": "mailto:bitlinks.llc@gmail.com",
-			"feedback_title": "Feedback on IPTV : World m3u playlists",
-			"feedback_message": "Hi,\n\n\nYour Feedback World IPTV Playlists! I would like to give you some feedback:",
-			"email_subject": "Feedback on IPTV : World m3u playlists",
-			"email_message": "Hi,\n\n\nYour Feedback IPTV : World m3u playlists ! I would like to give you some feedback:"
+			"feedback_title": "Feedback on Livetalk : Random ideo calling app",
+			"feedback_message": "Hi,\n\n\nYour Feedback Livetalk : Random ideo calling app! I would like to give you some feedback:",
+			"email_subject": "Feedback on Livetalk : Random ideo calling app",
+			"email_message": "Hi,\n\n\nYour Feedback Livetalk : Random ideo calling app ! I would like to give you some feedback:"
 		},
 		"google_ads": {
 			"banner_ad_unit_id_android": "ca-app-pub-1309792890285679/7195963500",
