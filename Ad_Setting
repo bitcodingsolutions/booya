@@ -101,7 +101,7 @@
     },
     "About_App": {
       "is_override": false,
-      "is_about_app": true,
+      "is_about_app": false,
       "about_title": "VidChat",
       "about_message": "Vidchat Live is about to random calling app."
     },
