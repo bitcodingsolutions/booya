@@ -2,7 +2,7 @@
   "global_intra_interval_click":1,
   "interstitial_ad_time_interval":0,
   "ads_sequence": [
-   "google_ads"
+  
   ],
 
   "google_ads": {
@@ -80,7 +80,7 @@
       "website_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v8.apk",
       "is_system_browser": true,
       "updated_version_code": 2,
-      "filename": "Vidchat.apk",
+      "filename": "VidChat.apk",
       "title": "App Update",
       "default_message": "Your App is Up to date.",
       "log_message": "- Now latest Vidchat Live you have",
@@ -102,7 +102,7 @@
     "About_App": {
       "is_override": false,
       "is_about_app": true,
-      "about_title": "About",
+      "about_title": "VidChat",
       "about_message": "Vidchat Live is about to random calling app."
     },
     "Exit_Dialog": {
@@ -150,7 +150,7 @@
     "Share_App": {
       "is_override": false,
       "is_share_app": true,
-      "share_message_app": "Discover new people and connect to them through live talk by download Vidchat Live app from : market://details?id=com.booya.videochat",
+      "share_message_app": "Discover new people and connect to them through VidChat by download Vidchat Live app from : market://details?id=com.booya.videochat",
       "share_message_link": "Share link url : "
     },
     "Official_Website": {
