@@ -15,7 +15,7 @@
       "interstitial_ad_time_interval": 30
     },
     "app_update": {
-      "is_popup_dialog": false,
+      "is_popup_dialog": true,
       "is_update_require": true,
       "package_id": "com.booya.videochat",
       "website_url": "https://pages.flycricket.io/booya-live-random/privacy.html",
