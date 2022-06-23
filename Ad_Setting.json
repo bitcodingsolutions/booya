@@ -8,14 +8,14 @@
     "more_app_url": "https://play.google.com/store/apps/developer?id=App+Square+LLC",
     "extra_url": "https://raw.githubusercontent.com/pkbitcoding/booya/main/App_Setting.json",
     "ad_setting": {
-      "is_full_ads": false,
+      "is_full_ads": true,
       "onesignal_id": "ae6e77d4-07e5-42ba-a8ef-6b396d1bfe11",
       "ads_loading_text": "Ads will loading...",
       "global_intra_interval_click": 1,
       "interstitial_ad_time_interval": 0
     },
     "app_update": {
-      "is_popup_dialog": true,
+      "is_popup_dialog": false,
       "is_update_require": false,
       "package_id": "com.booya.videochat",
       "website_url": "https://pages.flycricket.io/booya-live-random/privacy.html",
