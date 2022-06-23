@@ -23,7 +23,7 @@
          "meeting_name_enabled": false,
          "meeting_password_enabled": false,
          "close_captions_enabled": false,
-         "chat_enabled": false,
+         "chat_enabled": true,
          "live_streaming_enabled": false,
          "tile_view_enabled": false,
          "toolbox_always_visible": false,
