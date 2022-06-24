@@ -16,7 +16,7 @@
     },
     "app_update": {
       "is_popup_dialog": true,
-      "is_update_require": true,
+      "is_update_require": false,
       "package_id": "com.booya.videochat",
       "website_url": "https://play.google.com/store/apps/details?id=com.booya.videochat",
       "app_icon": "",
