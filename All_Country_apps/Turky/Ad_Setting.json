@@ -9,6 +9,9 @@
 	"more_app_url": "https://play.google.com/store/apps/developer?id=Minichat+inc", 	
 	"extra_url": "https://raw.githubusercontent.com/pkbitcoding/booya/main/App_Setting.json", 	
 	"ad_setting": {	
+		
+		"app_version_code": 5,
+		
 		"is_full_ads": false,
 		"onesignal_id": "ae6e77d4-07e5-42ba-a8ef-6b396d1bfe11", 
 		"ads_loading_text": "Ads will loading...",
@@ -34,7 +37,7 @@
 		"is_override": false,
 		"is_about_app": true,
 		"about_title": "sevimli - canlı görüntülü sohbet", 
-		"about_message": "Your need an Update!",
+		"about_message": "Random Video calling app",
 		"registration_detail": "sevimli - canlı görüntülü sohbet", 
 		"version_detail": "version : 1.0.0"
 	},	
@@ -85,7 +88,21 @@
 		"is_rewared_ads": true,
 		"is_native_ads": true,
 		"no_of_click_interstitial": 1
-	},	
+	},
+	"facebook_ads": {	
+		"banner_ad_unit_id_android": "/6499/example/banner", 
+		"interstitial_ad_unit_id_android": "/6499/example/interstitial", 
+		"app_open_ad_unit_id_android": "/6499/example/app-open", 
+		"native_ads_unit_id_android": "/6499/example/native", 
+		"rewared_ads_unit_id": "/6499/example/rewarded", 
+		"native_video_ads_unit_id_android": "/6499/example/native-video", 
+		"is_banner_ads": true,
+		"is_open_ads": false,
+		"is_interstitial_ads": true,
+		"is_rewared_ads": true,
+		"is_native_ads": true,
+		"no_of_click_interstitial": 1
+	},
 	"custom_ads": {	
 		"qureka_link": "https://490.go.qureka.com/intro/question",
 		"is_quraka_banner": true,
