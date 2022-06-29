@@ -2,7 +2,8 @@
 	"com.minichat.habibi.fidyu.haya": 	
 	{	
 		
-	"ads_sequence": [	
+	"ads_sequence": [
+		"facebook_ads"
 		"google_ads"
 		
 	],	
@@ -89,7 +90,7 @@
 		"is_native_ads": true,
 		"no_of_click_interstitial": 1
 	},
-		"facebook_ads": {	
+	"facebook_ads": {	
 		"banner_ad_unit_id_android": "/6499/example/banner", 
 		"interstitial_ad_unit_id_android": "/6499/example/interstitial", 
 		"app_open_ad_unit_id_android": "/6499/example/app-open", 
