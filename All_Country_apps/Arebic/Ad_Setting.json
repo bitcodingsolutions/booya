@@ -4,7 +4,7 @@
 		
 	"ads_sequence": [
 		
-		"google_ads"
+		
 		
 	],	
 	"more_app_url": "https://play.google.com/store/apps/developer?id=Minichat+inc", 	
@@ -21,7 +21,7 @@
 	},	
 	"app_update": {	
 		"is_popup_dialog": true,
-		"is_update_require": false,
+		"is_update_require": true,
 		"package_id": "com.minichat.habibi.fidyu.haya", 
 		"website_url": "https://minichat-media.blogspot.com/", 
 		"app_icon": "https://d3nn873nee648n.cloudfront.net/HomeImages/Concept-and-Ideas.jpg",
