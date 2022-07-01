@@ -90,8 +90,8 @@
 		"no_of_click_interstitial": 1
 	},
 	"facebook_ads": {	
-		"banner_ad_unit_id_android": "/6499/example/banner", 
-		"interstitial_ad_unit_id_android": "/6499/example/interstitial", 
+		"banner_ad_unit_id_android": "551196860082720_551197386749334", 
+		"interstitial_ad_unit_id_android": "551196860082720_551197446749328", 
 		"app_open_ad_unit_id_android": "/6499/example/app-open", 
 		"native_ads_unit_id_android": "/6499/example/native", 
 		"rewared_ads_unit_id": "/6499/example/rewarded", 
