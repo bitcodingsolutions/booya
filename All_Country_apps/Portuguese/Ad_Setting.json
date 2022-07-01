@@ -1,5 +1,5 @@
 {		
-	"com.minichat.mono.videochat.envivo": 	
+	"com.minichat.belo.chatde.video": 	
 	{	
 		
 	"ads_sequence": [	
@@ -9,9 +9,7 @@
 	"more_app_url": "https://play.google.com/store/apps/developer?id=Minichat+inc", 	
 	"extra_url": "https://raw.githubusercontent.com/pkbitcoding/booya/main/App_Setting.json", 	
 	"ad_setting": {	
-		
 		"app_version_code": 5,
-		
 		"is_full_ads": false,
 		"onesignal_id": "ae6e77d4-07e5-42ba-a8ef-6b396d1bfe11", 
 		"ads_loading_text": "Ads will loading...",
@@ -21,7 +19,7 @@
 	"app_update": {	
 		"is_popup_dialog": true,
 		"is_update_require": false,
-		"package_id": "com.minichat.mono.videochat.envivo", 
+		"package_id": "com.minichat.belo.chatde.video", 
 		"website_url": "https://minichat-media.blogspot.com/", 
 		"app_icon": "",
 		"updated_version_code": 50,
@@ -36,31 +34,31 @@
 	"About_App": {	
 		"is_override": false,
 		"is_about_app": true,
-		"about_title": "mono - chat de video en vivo", 
-		"about_message": "Random Video calling app",
-		"registration_detail": "mono - chat de video en vivo", 
+		"about_title": "belo - chat de vídeo aleatório ao vivo", 
+		"about_message": "Random Video Calling app!",
+		"registration_detail": "belo - chat de vídeo aleatório ao vivo", 
 		"version_detail": "version : 1.0.0"
 	},	
 	"rate_app": {	
 		"is_rate_app": true,
-		"package_id": "com.minichat.mono.videochat.envivo", 
-		"rate_app_url": "https://play.google.com/store/apps/details?id=com.minichat.mono.videochat.envivo", 
+		"package_id": "com.minichat.belo.chatde.video", 
+		"rate_app_url": "https://play.google.com/store/apps/details?id=com.minichat.belo.chatde.video", 
 		"rate_message": "Please Rate us and promote us."
 	},	
 	"share_app": {	
 		"is_share_app": true,
-		"share_title": "Share link url :https://play.google.com/store/apps/details?id=com.minichat.mono.videochat.envivo", 
-		"share_message": "Now anyone can getmono - chat de video en vivo app : https://play.google.com/store/apps/details?id=com.minichat.mono.videochat.envivo" 
+		"share_title": "Share link url :https://play.google.com/store/apps/details?id=com.minichat.belo.chatde.video", 
+		"share_message": "Now anyone can getbelo - chat de vídeo aleatório ao vivo app : https://play.google.com/store/apps/details?id=com.minichat.belo.chatde.video" 
 	},	
 	"privacy_policy": {	
 		"is_privacy_policy": true,
 		"is_system_browser": true,
-		"privacy_policy": "pages.flycricket.io/mono-chat-de-video/privacy.html" 
+		"privacy_policy": "pages.flycricket.io/belo-chat-de-video/privacy.html" 
 	},	
 	"terms_of_use": {	
 		"is_terms_of_use": true,
 		"is_system_browser": true,
-		"terms_of_use": "pages.flycricket.io/mono-chat-de-video/privacy.html" 
+		"terms_of_use": "pages.flycricket.io/belo-chat-de-video/privacy.html" 
 	},	
 	"error_report": {	
 		"is_error_report_support": true,
@@ -69,10 +67,10 @@
 	"feedback_support": {	
 		"is_feedback_support": true,
 		"email_id":"mailto:minichat.inc@gmail.com",
-		"feedback_title": "Feedback on mono - chat de video en vivo",
-		"feedback_message": "Hi,\n\n\nYour Feedback mono - chat de video en vivo! I would like to give you some feedback:",
-		"email_subject": "Feedback on mono - chat de video en vivo",
-		"email_message": "Hi,\n\n\nYour Feedback mono - chat de video en vivo! I would like to give you some feedback:"
+		"feedback_title": "Feedback on belo - chat de vídeo aleatório ao vivo",
+		"feedback_message": "Hi,\n\n\nYour Feedback belo - chat de vídeo aleatório ao vivo! I would like to give you some feedback:",
+		"email_subject": "Feedback on belo - chat de vídeo aleatório ao vivo",
+		"email_message": "Hi,\n\n\nYour Feedback belo - chat de vídeo aleatório ao vivo! I would like to give you some feedback:"
 		
 	},	
 	"google_ads": {	
@@ -88,22 +86,21 @@
 		"is_rewared_ads": true,
 		"is_native_ads": true,
 		"no_of_click_interstitial": 1
-	},
+	},	
 	"facebook_ads": {	
-		"banner_ad_unit_id_android": "/6499/example/banner", 
-		"interstitial_ad_unit_id_android": "/6499/example/interstitial", 
-		"app_open_ad_unit_id_android": "/6499/example/app-open", 
-		"native_ads_unit_id_android": "/6499/example/native", 
-		"rewared_ads_unit_id": "/6499/example/rewarded", 
-		"native_video_ads_unit_id_android": "/6499/example/native-video", 
+		"banner_ad_unit_id_android": "", 
+		"interstitial_ad_unit_id_android": "", 
+		"app_open_ad_unit_id_android": "", 
+		"native_ads_unit_id_android": "", 
+		"rewared_ads_unit_id": "", 
+		"native_video_ads_unit_id_android": "", 
 		"is_banner_ads": true,
-		"is_open_ads": false,
+		"is_open_ads": true,
 		"is_interstitial_ads": true,
 		"is_rewared_ads": true,
 		"is_native_ads": true,
 		"no_of_click_interstitial": 1
 	},	
-
 	"custom_ads": {	
 		"qureka_link": "https://490.go.qureka.com/intro/question",
 		"is_quraka_banner": true,
