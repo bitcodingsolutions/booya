@@ -20,7 +20,7 @@
 	},	
 	"app_update": {	
 		"is_popup_dialog": true,
-		"is_update_require": false,
+		"is_update_require": true,
 		"package_id": "com.minichat.prekrasnyy.videochat", 
 		"website_url": "https://minichat-media.blogspot.com/", 
 		"app_icon": "",
