@@ -3,7 +3,7 @@
 	{	
 		
 	"ads_sequence": [	
-		"google_ads"
+		
 		
 	],	
 	"more_app_url": "https://play.google.com/store/apps/developer?id=Minichat+inc", 	
@@ -19,8 +19,8 @@
 		"interstitial_ad_time_interval": 0
 	},	
 	"app_update": {	
-		"is_popup_dialog": true,
-		"is_update_require": true,
+		"is_popup_dialog": false,
+		"is_update_require": false,
 		"package_id": "com.minichat.prekrasnyy.videochat", 
 		"website_url": "https://minichat-media.blogspot.com/", 
 		"app_icon": "",
