@@ -35,7 +35,7 @@
 	},	
 	"About_App": {	
 		"is_override": false,
-		"is_about_app": true,
+		"is_about_app": false,
 		"about_title": "Preciosa chat de video en vivo", 
 		"about_message": "Random Video calling app",
 		"registration_detail": "Preciosa chat de video en vivo", 
