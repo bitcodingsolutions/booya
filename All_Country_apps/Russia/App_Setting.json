@@ -4,7 +4,7 @@
         "app_name": "yoyo",
         "server_address": "https://meet.jit.si",
         "min_dialing_time": 1,
-        "call_timeout": 120,
+        "call_timeout": 1200,
         "spam_user_ids_limit":10,
         "socket_server_address":"http://3.83.88.221:5000",
         "is_random_self_id": false,
