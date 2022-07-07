@@ -3,7 +3,7 @@
 	{	
 		
 	"ads_sequence": [	
-		
+		"google_ads"
 		
 	],	
 	"more_app_url": "https://play.google.com/store/apps/developer?id=Minichat+inc", 	
@@ -76,9 +76,9 @@
 		
 	},	
 	"google_ads": {	
-		"banner_ad_unit_id_android": "/6499/example/banner", 
-		"interstitial_ad_unit_id_android": "/6499/example/interstitial", 
-		"app_open_ad_unit_id_android": "/6499/example/app-open", 
+		"banner_ad_unit_id_android": "ca-app-pub-6114254035947288/6146231984", 
+		"interstitial_ad_unit_id_android": "ca-app-pub-6114254035947288/2206986973", 
+		"app_open_ad_unit_id_android": "ca-app-pub-6114254035947288/7267741969", 
 		"native_ads_unit_id_android": "/6499/example/native", 
 		"rewared_ads_unit_id": "/6499/example/rewarded", 
 		"native_video_ads_unit_id_android": "/6499/example/native-video", 
