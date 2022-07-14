@@ -34,7 +34,11 @@
 		"is_exit_require": true,
 		"exit_title": "Exit",
 		"exit_message": "Do you want to exit from App?"
-	},	
+	},   
+	"reward_dialog": {	
+		"is_reward_require": true,
+		"reward_message": "Watch Reward ads for More Random Video call"
+   	 },	
 	"About_App": {	
 		"is_override": false,
 		"is_about_app": true,
