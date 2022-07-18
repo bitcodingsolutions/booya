@@ -116,14 +116,22 @@
       ]
     },
     "app_lovin": {
-      "id_unit_banner": "ea461cafb766f981",
-      "id_unit_intra": "25e8b6a26ad86fab",
-      "id_unit_native": "c9e5f467f320ff02",
-      "rewared_ads_unit_id": "f394267d6c5c328c",
-      "is_banner_ads": true,
-      "is_interstitial_ads": true,
-      "is_native_ads": false,
-      "is_rewared_ads": true
+	"is_unlimited_ads": true,
+		
+		"id_unit_banner": "94ebe8395e6d2805",
+		"id_unit_intra": "732f7644514283c8",
+		"id_unit_native": "",
+		"id_unit_native_multiple": 
+		{
+     			        "small":"9632213c2b615176",
+      		        	"medium":"8e4ac4cda97b3d52",
+    			        "manual":"b8408ff8ba0188c3"
+  		  },
+		"rewared_ads_unit_id": "dcfeacb6e0984c4c",
+		"is_banner_ads": true,
+		"is_interstitial_ads": true,
+		"is_native_ads": true,
+		"is_rewared_ads": true
     },
     "unity_ads": {
       "game_id": "4737797",
