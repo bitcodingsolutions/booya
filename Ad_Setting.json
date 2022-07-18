@@ -18,7 +18,7 @@
       "ads_loading_text": "Ad is loading...",
       "seconds_require_triger_reward": 45,	
       "global_intra_interval_click": 3,
-      "interstitial_ad_time_interval": 5
+      "interstitial_ad_time_interval": 1
     },
     "app_update": {
       "is_popup_dialog": false,
