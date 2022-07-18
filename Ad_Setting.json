@@ -15,7 +15,7 @@
 	    
       "is_full_ads": false,
       "onesignal_id": "ae6e77d4-07e5-42ba-a8ef-6b396d1bfe11",
-      "ads_loading_text": "Ads will loading...",
+      "ads_loading_text": "Ad is loading...",
       "seconds_require_triger_reward": 45,	
       "global_intra_interval_click": 3,
       "interstitial_ad_time_interval": 5
@@ -26,7 +26,7 @@
       "package_id": "com.booya.videochat",
       "website_url": "https://play.google.com/store/apps/details?id=com.booya.videochat",
       "app_icon": "",
-      "updated_version_code": 2,
+      "updated_version_code": 50,
       "title": "App Update",
       "default_message": "Your App need an update."
     },
