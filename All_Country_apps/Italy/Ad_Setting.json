@@ -96,10 +96,10 @@
 	},	
 		
 	"facebook_ads": {	
-		"banner_ad_unit_id_android": "445766687561661_445766924228304", 
-		"interstitial_ad_unit_id_android": "445766687561661_445766970894966", 
-		"rewared_ads_unit_id": "445766687561661_445766970894966", 
-		"native_ads_unit_id_android": "445766687561661_445767060894957", 
+		"banner_ad_unit_id_android": "610677880366813_610678297033438", 
+		"interstitial_ad_unit_id_android": "610677880366813_610678370366764", 
+		"rewared_ads_unit_id": "610677880366813_610678370366764", 
+		"native_ads_unit_id_android": "610677880366813_610678413700093", 
 		"is_banner_ads": true,
 		"is_interstitial_ads": true,
 		"is_rewared_ads": true,
