@@ -2,7 +2,9 @@
 	"com.minichat.loveme.randome.videochat": 	
 	{	
 		
-	"ads_sequence": [	
+	"ads_sequence": [
+		
+		"google_ads",	
 		"app_lovin"
 		
 	],	
