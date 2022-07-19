@@ -4,7 +4,8 @@
 		
 	"ads_sequence": [	
 		
-		"google_ads"
+		"google_ads",
+		"app_lovin"
 	],	
 	"more_app_url": "https://play.google.com/store/apps/developer?id=Minichat+inc", 	
 	"extra_url": "https://raw.githubusercontent.com/pkbitcoding/booya/main/App_Setting.json", 	
