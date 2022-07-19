@@ -132,16 +132,16 @@
 		
 		"is_unlimited_ads": true,
 		
-		"id_unit_banner": "fe31477cd7cbc145",
-		"id_unit_intra": "9278e1c9a96a85ae",
+		"id_unit_banner": "7b2bfc8e8af1e198",
+		"id_unit_intra": "a240619b4d0e5a40",
 		"id_unit_native": "",
 		"id_unit_native_multiple": 
 		{
      			        "small":"",
       		        	"medium":"",
-    			        "manual":"42a7734a7013d7f5"
+    			        "manual":"394fe7febf8fe49c"
   		  },
-		"rewared_ads_unit_id": "0c86554e51f242f1",
+		"rewared_ads_unit_id": "9394c2f841f019e2",
 		"is_banner_ads": true,
 		"is_interstitial_ads": true,
 		"is_native_ads": true,
