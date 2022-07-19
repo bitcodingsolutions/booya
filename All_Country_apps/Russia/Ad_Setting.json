@@ -128,16 +128,26 @@
 		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/6.jpg?raw=true"
 	]	
 	},	
-	"app_lovin": {	
-		"id_unit_banner": "c627779fcaa3cbe3",
-		"id_unit_intra": "11ca10e1407e8d0f",
-		"id_unit_native": "c9e5f467f320ff02",
-		"rewared_ads_unit_id": "788e6826808014df",
+	"app_lovin": {
+		
+		"is_unlimited_ads": true,
+		
+		"id_unit_banner": "ebac89ae3c901f4f",
+		"id_unit_intra": "da04c0cfa241129f",
+		"id_unit_native": "",
+		"id_unit_native_multiple": 
+		{
+     			        "small":"",
+      		        	"medium":"",
+    			        "manual":"220ec052e9764502"
+  		  },
+		"rewared_ads_unit_id": "bad27364368c6983",
 		"is_banner_ads": true,
 		"is_interstitial_ads": true,
-		"is_native_ads": false,
+		"is_native_ads": true,
 		"is_rewared_ads": true
-	},	
+   	 },
+		
 	"unity_ads": {	
 		"game_id": "4737797",
 		"is_intra_ads": true,
