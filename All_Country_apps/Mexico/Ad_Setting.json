@@ -2,7 +2,9 @@
 	"com.minichat.mono.videochat.envivo": 	
 	{	
 		
-	"ads_sequence": [	
+	"ads_sequence": [
+		
+		"google_ads",	
 		"app_lovin"
 		
 	],	
