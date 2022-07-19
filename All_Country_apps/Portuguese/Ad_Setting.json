@@ -2,7 +2,9 @@
 	"com.minichat.belo.chatde.video": 	
 	{	
 		
-	"ads_sequence": [	
+	"ads_sequence": [
+		
+		"google_ads",	
 		"app_lovin"
 		
 	],	
