@@ -3,7 +3,7 @@
 	{	
 		
 	"ads_sequence": [	
-		"google_ads"
+		"app_lovin"
 		
 	],	
 	"more_app_url": "https://play.google.com/store/apps/developer?id=Minichat+inc", 	
@@ -128,16 +128,24 @@
 		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/6.jpg?raw=true"
 	]	
 	},	
-	"app_lovin": {	
-		"id_unit_banner": "c627779fcaa3cbe3",
-		"id_unit_intra": "11ca10e1407e8d0f",
-		"id_unit_native": "c9e5f467f320ff02",
-		"rewared_ads_unit_id": "788e6826808014df",
+	"app_lovin": {
+	"is_unlimited_ads": true,
+		
+		"id_unit_banner": "fe31477cd7cbc145",
+		"id_unit_intra": "9278e1c9a96a85ae",
+		"id_unit_native": "",
+		"id_unit_native_multiple": 
+		{
+     			        "small":"",
+      		        	"medium":"",
+    			        "manual":"42a7734a7013d7f5"
+  		  },
+		"rewared_ads_unit_id": "0c86554e51f242f1",
 		"is_banner_ads": true,
 		"is_interstitial_ads": true,
-		"is_native_ads": false,
+		"is_native_ads": true,
 		"is_rewared_ads": true
-	},	
+   	 },
 	"unity_ads": {	
 		"game_id": "4737797",
 		"is_intra_ads": true,
