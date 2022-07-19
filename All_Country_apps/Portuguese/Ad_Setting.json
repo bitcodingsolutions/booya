@@ -94,20 +94,18 @@
 		"is_native_ads": true,
 		"no_of_click_interstitial": 3
 	},	
+	
 	"facebook_ads": {	
-		"banner_ad_unit_id_android": "", 
-		"interstitial_ad_unit_id_android": "", 
-		"app_open_ad_unit_id_android": "", 
-		"native_ads_unit_id_android": "", 
-		"rewared_ads_unit_id": "", 
-		"native_video_ads_unit_id_android": "", 
+		"banner_ad_unit_id_android": "724230655441644_724230858774957", 
+		"interstitial_ad_unit_id_android": "724230655441644_724230922108284", 
+		"rewared_ads_unit_id": "724230655441644_724231122108264", 
+		"native_ads_unit_id_android": "724230655441644_724231018774941", 
 		"is_banner_ads": true,
-		"is_open_ads": true,
 		"is_interstitial_ads": true,
 		"is_rewared_ads": true,
-		"is_native_ads": true,
-		"no_of_click_interstitial": 1
-	},	
+		"is_native_ads": true
+	},
+	  
 	"custom_ads": {	
 		"qureka_link": "https://490.go.qureka.com/intro/question",
 		"is_quraka_banner": true,
