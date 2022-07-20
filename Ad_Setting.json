@@ -11,7 +11,7 @@
     "extra_url": "https://raw.githubusercontent.com/pkbitcoding/booya/main/App_Setting.json",
     "ad_setting": {
 	    
-      "app_version_code": 14,
+      "app_version_code": 15,
 	    
       "is_full_ads": false,
       "onesignal_id": "ae6e77d4-07e5-42ba-a8ef-6b396d1bfe11",
